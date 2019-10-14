@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.navbar {
+  /* text-align: left; */
+  background-color: black;
+  border-bottom: teal 3px solid;
+  opacity: 0.8;
+  margin-bottom: 3rem;
+}
+
+
+/*
+.navresources {
+  display: flex;
+  margin: 10px;
+  padding: 16px 10px;
+  color: white;
+}
+*/
+
+.card {
+  text-align: left;
+  align-items: left;
+  justify-content: left;
+  border: 2px solid black;
+  margin: 10px 50px 10px 50px;
+  font-weight: bold;
+}
+
+.cardheader {
+  background-color: black;
+  color: lightgray;
+  padding: 10px; 
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.cardheaderline {
+  padding: 10px 5px;
+}
+
+.cardheaderbutton {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px; 
+  padding-right: 20px;
+  font-size: 1.25rem;
+}
+
+.cardbody {
+  padding: 20px;
+}
+
+/*
+.Modal {
+  position: fixed;
+  z-index: 500;
+  background-color: white;
+  width: 70%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 15%;
+  top: 30%;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+}
+
+
+@media (min-width: 600px) {
+  .Modal {
+    width: 500px;
+    left: calc(50% - 250px);
+  }
+}
+
+*/
+
+
+
+
