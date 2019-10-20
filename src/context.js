@@ -114,6 +114,44 @@ export class Provider extends Component {
                     "Deployed latest Simple React project to GitHub Pages",
                     "Created GitHub Repository for Simple React Project"
                 ]
+            },
+            {
+                "id": 13,
+                "challengeDay": 13,
+                "date": "20191014",
+                "dayNotes": [
+                    "Created new React project for 100 days of code with Agile Sprints",
+                    "Installed Node packages",
+                    "Added first few pages in new project"
+                ]
+            },
+            {
+                "id": 14,
+                "challengeDay": 14,
+                "date": "20191016",
+                "dayNotes": [
+                    "Watched preview sections of new Udemy Course",
+                    "Course:  Node.js API Masterclass With Express & MongoDB",
+                    "Course Link: https://www.udemy.com/course/nodejs-api-masterclass/?couponCode=OCTOBER999",
+                    "Set up and ran example programs"
+                ]
+            },
+            {
+                "id": 15,
+                "challengeDay": 15,
+                "date": "20191017",
+                "dayNotes": [
+                    "Attended Minneapolis React Meetup October meeting"
+                ]
+            },
+            {
+                "id": 16,
+                "challengeDay": 16,
+                "date": "20191019",
+                "dayNotes": [
+                    "Reviewed module setup",
+                    "CSS for background setting"
+                ]
             }
         ]
     }
