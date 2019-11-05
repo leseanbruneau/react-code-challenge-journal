@@ -152,8 +152,92 @@ export class Provider extends Component {
                     "Reviewed module setup",
                     "CSS for background setting"
                 ]
-            }
-        ]
+            },
+            {
+                "id": 17,
+                "challengeDay": 17,
+                "date": "20191020",
+                "dayNotes": [
+                    "Converted Class Based Components to Functional Components",
+                    "Update Context API from State variable to useState()"
+                ]
+            },
+            {
+                "id": 18,
+                "challengeDay": 18,
+                "date": "20191021",
+                "dayNotes": [
+                    "(JavaScript) Worked on JavaScript examples with callbacks"
+                ]
+            },
+            {
+                "id": 19,
+                "challengeDay": 19,
+                "date": "20191023",
+                "dayNotes": [
+                    "(React) Worked some more on Stateless functional components",
+                    "(React) Added functional component to React Router "
+                ]
+            },
+            {
+                "id": 20,
+                "challengeDay": 20,
+                "date": "20191026",
+                "dayNotes": [
+                    "(Angular) For horse racing site - added Breeders' Cup page",
+                    "(Angular) Added Service to retreive Breeders' Cup races"
+                ]
+            },
+            {
+                "id": 21,
+                "challengeDay": 21,
+                "date": "20191027",
+                "dayNotes": [
+                    "(Angular) Formatted added Breeders' Cup page",
+                    "(Angular) Added Breeders' Cup races to JSON object"
+                ]
+            },
+            {
+                "id": 22,
+                "challengeDay": 22,
+                "date": "20191028",
+                "dayNotes": [
+                    "(Angular) Deployed updated horse racing site with Breeders' Cup page",
+                    "(Angular) https://landsharkpark.github.io/#/bc"
+
+                ]
+            },
+            {
+              "id": 23,
+              "challengeDay": 23,
+              "date": "20191030",
+              "dayNotes": [
+                  "Back to React - Created new JSON object for Sprints",
+                  "Defined Days fields and display within Sprint component"
+
+              ]
+          },
+          {
+            "id": 24,
+            "challengeDay": 24,
+            "date": "20191102",
+            "dayNotes": [
+                "Created a separated 'Sprint' component",
+                "Updated 'Sprints' component - moved individual sprint component into Sprint component"
+
+            ]
+        },
+        {
+          "id": 25,
+          "challengeDay": 25,
+          "date": "20191104",
+          "dayNotes": [
+              "Added a 'Show Detail' button to 'Sprint' component",
+              "Added function to hide details of a sprint in the 'Sprint' component"
+
+          ]
+      }
+  ]
     }
 
     render() {
