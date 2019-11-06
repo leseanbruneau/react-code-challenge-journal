@@ -15,6 +15,11 @@ export default function About() {
                     application.  This site loads all data at startup using React's Context API.   
                 </p>
                 <p>
+                  The new application with Agile format will start out using React's Context API, and then migrate over 
+                  to a server database (either Firebase or MongoDB) using Axios npm package.  The new site with updates 
+                  will be published here: <a className="pl-3" href="https://ustleseanbruneau.github.io/" target="_blank">https://ustleseanbruneau.github.io/</a>
+                </p>
+                <p>
                     The larger React application I am building will have a backend database, buttons and 
                     modules to retrieve, enter, update data.  The end goal is to have a site for an 
                     official 100 Days of Challenge ready in January 2020.

@@ -18,14 +18,15 @@ export default class Days extends Component {
                     return (
                         <React.Fragment>
                             {days.map(day => (
-                                <div className="container card" key={day.id}>
+                                <div className="container" key={day.id}>
+                                  <div className="card">
                                     <div className="cardheader">
                                         <span><strong>Challenge Day: </strong> {day.challengeDay}</span>
                                         <span style={{ float: 'right' }}>
                                             <strong>Date: </strong>
                                             {day.date.substring(4, 6)}/
-                                    {day.date.substring(6, 8)}/
-                                    {day.date.substring(0, 4)}
+                                            {day.date.substring(6, 8)}/
+                                            {day.date.substring(0, 4)}
                                         </span>
                                     </div>
                                     <div className='cardbody'>
@@ -39,6 +40,7 @@ export default class Days extends Component {
                                             ))}
                                         </ul>
                                     </div>
+                                  </div>
                                 </div>
                         ))}
                         </React.Fragment>

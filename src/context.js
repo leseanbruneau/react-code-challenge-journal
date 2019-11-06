@@ -236,8 +236,18 @@ export class Provider extends Component {
               "Added function to hide details of a sprint in the 'Sprint' component"
 
           ]
-      }
-  ]
+      },
+      {
+        "id": 26,
+        "challengeDay": 26,
+        "date": "20191105",
+        "dayNotes": [
+            "Fixed CSS formatting on header line",
+            "Added components 'Days' and 'Day'"
+
+        ]
+    }
+]
     }
 
     render() {
