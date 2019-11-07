@@ -21,12 +21,16 @@
   color: #09d3ac;
 }
 
+.pagetop {
+  margin-top: 5rem;
+}
+
 .navbar {
   /* text-align: left; */
   background-color: black;
   border-bottom: teal 3px solid;
   opacity: 0.8;
-  margin-bottom: 3rem;
+  margin-bottom: 10rem;
 }
 
 .card {

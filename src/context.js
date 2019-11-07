@@ -234,7 +234,6 @@ export class Provider extends Component {
           "dayNotes": [
               "Added a 'Show Detail' button to 'Sprint' component",
               "Added function to hide details of a sprint in the 'Sprint' component"
-
           ]
       },
       {
@@ -242,11 +241,20 @@ export class Provider extends Component {
         "challengeDay": 26,
         "date": "20191105",
         "dayNotes": [
-            "Fixed CSS formatting on header line",
-            "Added components 'Days' and 'Day'"
-
+          "Fixed CSS formatting on header line",
+          "Added components 'Days' and 'Day'"
         ]
-    }
+      },
+      {
+        "id": 27,
+        "challengeDay": 27,
+        "date": "20191106",
+        "dayNotes": [
+          "Fixed navbar to top of page",
+          "Fixed sprint labels and description format",
+          "Update labels for example sprints and days"
+        ]
+      }
 ]
     }
 

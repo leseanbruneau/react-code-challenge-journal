@@ -20,7 +20,7 @@ function App() {
       <div>
         <Router>
           <Header />
-          <div>
+          <div className="pagetop">
             <Switch>
               <Route exact path="/" component= { Days } />
               <Route exact path="/reacthelp" component= { ReactHelp } />
@@ -35,5 +35,6 @@ function App() {
     </Provider>
   );
 }
+
 
 export default App;
