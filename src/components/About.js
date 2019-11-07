@@ -16,17 +16,12 @@ export default function About() {
                 </p>
                 <p>
                   The new application with Agile format will start out using React's Context API, and then migrate over 
-                  to a server database (either Firebase or MongoDB) using Axios npm package.  The new site with updates 
-                  will be published here: <a className="pl-3" href="https://ustleseanbruneau.github.io/" target="_blank">https://ustleseanbruneau.github.io/</a>
+                  to a server database (either Firebase or MongoDB) using Axios npm package.  The new site will 
+                  make the site easier to maintain, more organized for reading and daily updates.  The end goal is to 
+                  have the new site ready for an official 100 Days of Challenge in January 2020.
                 </p>
                 <p>
-                    The larger React application I am building will have a backend database, buttons and 
-                    modules to retrieve, enter, update data.  The end goal is to have a site for an 
-                    official 100 Days of Challenge ready in January 2020.
-                </p>
-                <p>
-                    I plan to use a modified Agile format for the 100 Days of Code Challenge.  For "modified" 
-                    Agile format, I'm thinking on the following: 
+                    For "modified" Agile format, I'm thinking on the following: 
                 </p>
                 <ul>
                     <li>10 Sprints for 100 Days of Code Challenge</li>
@@ -39,13 +34,28 @@ export default function About() {
                     Note: The added "Agile format" is not meant to distract from coding exercises in the 
                     100 Days of Code Challenge.  Sprint Planing and Review are meant to be short, quick 
                     notes.  Agile format would help me set short term goals in addition to formatting 
-                    organized journal entries for public posting.
+                    and publishing organized journal entries.
                 </p>
                 <p>
-                    Idea is to be done in December - Ready to start an official 100 Days of Code Challenge 
-                    in January.  If I would have paid attention to the calendar in September, I would have 
-                    known when to properly start the 100 days of code to finish before the end of the 
-                    year.
+                  GitHub repository and sites locations listed below.
+                </p>
+                <p>
+                    <div><strong>Starter React Project - simple static web site using Context API</strong></div>
+                    <div class="px-4">
+                      GitHub Repository: <a className="pl-3" href="https://github.com/leseanbruneau/react-code-challenge-journal.git" target="_blank" rel="noopener noreferrer">https://github.com/leseanbruneau/react-code-challenge-journal.git</a>
+                    </div>
+                    <div class="px-4">
+                      React Website: <a className="pl-3" href="https://leseanbruneau.github.io/" target="_blank" rel="noopener noreferrer">https://leseanbruneau.github.io/</a>
+                    </div>
+                </p>
+                <p>
+                    <div><strong>Agile React Project - working project with more web site features</strong></div>
+                    <div class="px-4">
+                      GitHub Repository: <a className="pl-3" href="https://github.com/leseanbruneau/react-code-challenge-journal.git" target="_blank" rel="noopener noreferrer">https://github.com/leseanbruneau/react-code-challenge-journal.git</a>
+                    </div>
+                    <div class="px-4">
+                      React Website: <a className="pl-3" href="https://leseanbruneau.github.io/" target="_blank" rel="noopener noreferrer">https://leseanbruneau.github.io/</a>
+                    </div>
                 </p>
             </div>
 
